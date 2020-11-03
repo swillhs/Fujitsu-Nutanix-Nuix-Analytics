@@ -17,7 +17,7 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
 
    * - **Sven Willholz**
      - **Wolfgang Huse**
-   * - .. figure:: images/svenwillholz.jpg
+   * - .. figure:: images/svenwillholz.png
      - .. figure:: images/wolfganghuse.png
    * - **Senior Systems Engineer**
      - **Solutions Architect**
