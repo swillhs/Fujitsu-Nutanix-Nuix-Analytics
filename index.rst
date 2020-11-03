@@ -1,4 +1,13 @@
-.. title:: Nutanix Calm Bootcamp
+.. title:: Nutanix/Fujitsu Nuix Analytics Bootcamp
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Hosted PoC Infos
+   :hidden:
+
+   1-hpoc/ansprechpartner/ansprechpartner
+   1-hpoc/clusteraccess/clusteraccess
+   1-hpoc/clusterdetails/clusterdetails
 
 .. toctree::
   :maxdepth: 2
