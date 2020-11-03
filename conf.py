@@ -50,7 +50,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Nutanix Calm Bootcamp'
+project = u'Nutanix/Fujitsu Nuix Analytics Bootcamp'
 copyright = u'2020 Nutanix'
 author = u'Nutanix Global Technical Enablement'
 
