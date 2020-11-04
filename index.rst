@@ -85,10 +85,11 @@
 .. _getting_started:
 
 ----------------------------------------------
-Herzlich willkommen auf dem Nutanix Hosted PoC
+Herzlich willkommen auf dem Fujitsu/Nutanix NUIX-Analytics Hosted PoC
 ----------------------------------------------
 
-.. figure:: images/Intro.png
+.. figure:: images/Fujitsu.jpg
+.. figure:: images/nutanix.jpg
 
 Diese Nutanix Hosted PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten.
 
@@ -100,6 +101,7 @@ In diesem Bootcamp lernen Sie Prism Element, dessen Funktionen und Navigation ke
 - AHV
 - Prism
 - Files
+- Objects
 - Calm
 
 **Haben wir Ihr Interesse geweckt? Dann lassen Sie uns beginnen!**
