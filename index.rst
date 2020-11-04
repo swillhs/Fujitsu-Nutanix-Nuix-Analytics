@@ -10,38 +10,46 @@
    1-hpoc/clusterdetails/clusterdetails
 
 .. toctree::
-   :maxdepth: 2
-   :caption: AOS und AHV Labs
-   :hidden:
+  :maxdepth: 2
+  :caption: AOS und AHV Labs
+  :hidden:
 
-   aosandahv/lab_nutanix_tech_overview/lab_nutanix_tech_overview
-   aosandahv/lab_storage_configuration/lab_storage_configuration
-   aosandahv/lab_network_configuration/lab_network_configuration
-   aosandahv/lab_deploy_workloads/lab_deploy_workloads
-   aosandahv/lab_manage_workloads/lab_manage_workloads
-   aosandahv/lab_data_protection/lab_data_protection
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Nutanix Files
-   :hidden:
-
-   files/files_deploy/files_deploy
-   files/files_smb_share/files_smb_share
-   files/files_nfs_export/files_nfs_export
-   files/files_file_blocking/files_file_blocking
-   files/files_multiprotocol/files_multiprotocol
-   files/file_analytics_scan/file_analytics_scan
-   files/file_analytics_anomaly/file_analytics_anomaly
-   files/files_expand_cluster/files_expand_cluster
+  aosandahv/lab_nutanix_tech_overview/lab_nutanix_tech_overview
+  aosandahv/lab_storage_configuration/lab_storage_configuration
+  aosandahv/lab_network_configuration/lab_network_configuration
+  aosandahv/lab_deploy_workloads/lab_deploy_workloads
+  aosandahv/lab_manage_workloads/lab_manage_workloads
+  aosandahv/lab_data_protection/lab_data_protection
 
 .. toctree::
-     :maxdepth: 2
-     :caption: Karbon
-     :hidden:
+  :maxdepth: 2
+  :caption: Nutanix Files
+  :hidden:
 
-     Karbon/karbon
-       
+  files/files_deploy/files_deploy
+  files/files_smb_share/files_smb_share
+  files/files_nfs_export/files_nfs_export
+  files/files_file_blocking/files_file_blocking
+  files/files_multiprotocol/files_multiprotocol
+  files/file_analytics_scan/file_analytics_scan
+  files/file_analytics_anomaly/file_analytics_anomaly
+  files/files_expand_cluster/files_expand_cluster
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Nutanix Files
+  :hidden:
+
+  Karbon/karbon
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Objects Labs
+  :name: _objects_labs
+  :hidden:
+
+  objects/objects
+
 .. toctree::
   :maxdepth: 2
   :caption: Calm
@@ -76,12 +84,8 @@
 
 .. _getting_started:
 
----------------
-Getting Started
----------------
-
 ----------------------------------------------
-Herzlich willkommen auf dem Fujitsu-Nutanix NUIX Analytics Hosted PoC
+Herzlich willkommen auf dem Nutanix Hosted PoC
 ----------------------------------------------
 
 .. figure:: images/Intro.png
@@ -96,7 +100,6 @@ In diesem Bootcamp lernen Sie Prism Element, dessen Funktionen und Navigation ke
 - AHV
 - Prism
 - Files
-- Karbon
 - Calm
 
 **Haben wir Ihr Interesse geweckt? Dann lassen Sie uns beginnen!**
