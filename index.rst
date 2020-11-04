@@ -8,7 +8,7 @@
    1-hpoc/ansprechpartner/ansprechpartner
    1-hpoc/clusteraccess/clusteraccess
    1-hpoc/clusterdetails/clusterdetails
-   
+
 .. toctree::
    :maxdepth: 2
    :caption: AOS und AHV Labs
@@ -20,7 +20,7 @@
    aosandahv/lab_deploy_workloads/lab_deploy_workloads
    aosandahv/lab_manage_workloads/lab_manage_workloads
    aosandahv/lab_data_protection/lab_data_protection
-   
+
 .. toctree::
    :maxdepth: 2
    :caption: Nutanix Files
@@ -34,7 +34,14 @@
    files/file_analytics_scan/file_analytics_scan
    files/file_analytics_anomaly/file_analytics_anomaly
    files/files_expand_cluster/files_expand_cluster
-      
+
+.. toctree::
+     :maxdepth: 2
+     :caption: Karbon
+     :hidden:
+
+     Karbon/karbon
+       
 .. toctree::
   :maxdepth: 2
   :caption: Calm
