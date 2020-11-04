@@ -96,6 +96,7 @@ In diesem Bootcamp lernen Sie Prism Element, dessen Funktionen und Navigation ke
 - AHV
 - Prism
 - Files
+- Karbon
 - Calm
 
 **Haben wir Ihr Interesse geweckt? Dann lassen Sie uns beginnen!**
