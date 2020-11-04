@@ -74,7 +74,7 @@ Getting Started
 ---------------
 
 ----------------------------------------------
-Herzlich willkommen auf dem Nutanix Hosted PoC
+Herzlich willkommen auf dem Fujitsu-Nutanix NUIX Analytics Hosted PoC
 ----------------------------------------------
 
 .. figure:: images/Intro.png
