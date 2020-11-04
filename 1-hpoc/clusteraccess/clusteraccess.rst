@@ -46,9 +46,8 @@ Pulse Secure VPN Client
 
 
 1.	Falls der Client bereits installiert ist bitte zu  Schritt 5 springen.
-2.	Um den Client herunter zu laden bitte an folgender Website unter Verwendung der bereitgestellten Zugangsdaten anmelden: 
-- **PHX** = https://xlv-uswest1.nutanix.com oder 
-- **RTP** = https://xlv-useast1.nutanix.com 
+2.	Um den Client herunter zu laden bitte an folgender Website unter Verwendung der bereitgestellten Zugangsdaten anmelden:
+- **PHX** = https://xlv-uswest1.nutanix.com
 
     .. figure:: images/pulsewebsite.png
 
@@ -61,9 +60,8 @@ Pulse Secure VPN Client
 5.	Lokal installierten Client öffnen und eine neue Verbindung mit folgenden Parametern für PHX oder RTP hinzufügen:
 
 - **Type**: "Policy Secure (UAC) or Connection Server (VPN)""
-- **Name**: Nutanix HPOC VPN 
+- **Name**: Nutanix HPOC VPN
 - **Server URL für PHX**: https://xlv-uswest1.nutanix.com
-- **Server URL für RTP**: https://xlv-useast1.nutanix.com
 
 6.	Sobald der Client eingerichtet ist mit den bereitgestellten Zugangsdaten verbinden.
 
@@ -75,7 +73,7 @@ Parallels VDI Zugang
 .. note::
   Die deutlich empfohlene Lösung um auf die HPoC Umgebung zuzugreifen ist die Frame VDI oder Pulse VPN Verbindung, da die Parallel VDI Verbindung i.d.R. deutlich langsamer ist. Für die Fälle in denen aufgrund diverser Gründe (u.a. fehlende lokale Admin Rechte) keine Pulse VPN Verbindung möglich ist, besteht alternativ noch die Option mittels Parallel VDI auf die Umgebung (u.a. auch ohne Installation eines lokalen Clients) zuzugreifen.
 
-1.	Unter Verwendung der bereitgestellten Zugangsdaten bitte an folgender Website anmelden: https://xld-uswest1.nutanix.com (für PHX) oder https://xld-useast1.nutanix.com (für RTP)
+1.	Unter Verwendung der bereitgestellten Zugangsdaten bitte an folgender Website anmelden: https://xld-uswest1.nutanix.com (für PHX)
 
    .. figure:: images/parallel-website.png
 
@@ -83,7 +81,7 @@ Parallels VDI Zugang
 
    .. figure:: images/parallel-dedecting.png
 
-3. Falls noch kein Client installiert ist, haben Sie nun die Option einen Parallel Client zu installieren (**Achtung: lokale Installationsrecht erforderlich**) oder den HTML5 WebClient ohne zusätzliche Installation zu verwenden. 
+3. Falls noch kein Client installiert ist, haben Sie nun die Option einen Parallel Client zu installieren (**Achtung: lokale Installationsrecht erforderlich**) oder den HTML5 WebClient ohne zusätzliche Installation zu verwenden.
 
     .. figure:: images/parallel-client-detecting.png
 
