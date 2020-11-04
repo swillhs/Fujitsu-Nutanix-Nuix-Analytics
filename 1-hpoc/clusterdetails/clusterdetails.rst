@@ -86,7 +86,7 @@ Die folgende Tabelle führt die standardmäßig hinterlegten Zugangsdaten für d
     - nx2Tech037!
   * - **Prism Central SSH**
     - nutanix
-    - nx2Tech037!
+    - nutanix/4u
   * - **NTNXLAB Domain**
     - NTNXLAB\\Administrator
     - nutanix/4u
