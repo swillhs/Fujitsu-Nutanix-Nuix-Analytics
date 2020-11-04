@@ -109,22 +109,22 @@ Darüber hinaus besitzt der Cluster eine dedizierte Domain-Controller-VM, welche
     - nutanix/4u
   * - **Bootcamp Users**
     - User01-User25
-    - nx2Tech037!
+    - nutanix/4u
   * - **SSP Admins**
     - Adminuser01-Adminuser25
-    - nx2Tech037!
+    - nutanix/4u
   * - **SSP Operators**
     - Operator01-Operator25
-    - nx2Tech037!
+    - nutanix/4u
   * - **SSP Developers**
     - Devuser01-Devuser25
-    - nx2Tech037!
+    - nutanix/4u
   * - **SSP Consumers**
     - Consumer01-Consumer25
-    - nx2Tech037!
+    - nutanix/4u
   * - **SSP Custom**
     - Custom01-Custom25
-    - nx2Tech037!
+    - nutanix/4u
 
 Netzwerk
 ++++++++
