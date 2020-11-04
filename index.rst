@@ -20,7 +20,21 @@
    aosandahv/lab_deploy_workloads/lab_deploy_workloads
    aosandahv/lab_manage_workloads/lab_manage_workloads
    aosandahv/lab_data_protection/lab_data_protection
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Nutanix Files
+   :hidden:
 
+   files/files_deploy/files_deploy
+   files/files_smb_share/files_smb_share
+   files/files_nfs_export/files_nfs_export
+   files/files_file_blocking/files_file_blocking
+   files/files_multiprotocol/files_multiprotocol
+   files/file_analytics_scan/file_analytics_scan
+   files/file_analytics_anomaly/file_analytics_anomaly
+   files/files_expand_cluster/files_expand_cluster
+      
 .. toctree::
   :maxdepth: 2
   :caption: Calm
