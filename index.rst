@@ -8,6 +8,18 @@
    1-hpoc/ansprechpartner/ansprechpartner
    1-hpoc/clusteraccess/clusteraccess
    1-hpoc/clusterdetails/clusterdetails
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: AOS und AHV Labs
+   :hidden:
+
+   aosandahv/lab_nutanix_tech_overview/lab_nutanix_tech_overview
+   aosandahv/lab_storage_configuration/lab_storage_configuration
+   aosandahv/lab_network_configuration/lab_network_configuration
+   aosandahv/lab_deploy_workloads/lab_deploy_workloads
+   aosandahv/lab_manage_workloads/lab_manage_workloads
+   aosandahv/lab_data_protection/lab_data_protection
 
 .. toctree::
   :maxdepth: 2
