@@ -88,8 +88,8 @@
 Herzlich willkommen auf dem Fujitsu/Nutanix NUIX-Analytics Hosted PoC
 ----------------------------------------------
 
-.. figure:: images/Fujitsu.jpg
-.. figure:: images/nutanix.jpg
+.. figure:: images/fujitsu.png
+.. figure:: images/nutanix.png
 
 Diese Nutanix Hosted PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten.
 
