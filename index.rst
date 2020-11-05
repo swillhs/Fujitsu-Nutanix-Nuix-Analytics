@@ -11,7 +11,7 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: AOS und AHV Labs
+  :caption: Nutanix AOS und AHV
   :hidden:
 
   aosandahv/lab_nutanix_tech_overview/lab_nutanix_tech_overview
@@ -37,14 +37,14 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Nutanix Files
+  :caption: Nutanix Karbon
   :hidden:
 
   Karbon/karbon
 
 .. toctree::
   :maxdepth: 2
-  :caption: Objects Labs
+  :caption: Nutanix Objects
   :name: _objects_labs
   :hidden:
 
@@ -52,7 +52,7 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Calm
+  :caption: Nutanix Calm
   :name: _calm
   :hidden:
 
@@ -100,6 +100,7 @@ In diesem Bootcamp lernen Sie Prism Element, dessen Funktionen und Navigation ke
 - AHV
 - Prism
 - Files
+- Karbon
 - Objects
 - Calm
 
