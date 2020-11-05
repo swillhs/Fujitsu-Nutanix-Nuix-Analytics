@@ -19,7 +19,7 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
 |    :width: 200px                 |    :width: 200px                  |
 |    :align: left                  |    :align: left                   |
 +----------------------------------+-----------------------------------+
-| Sr. Systems Engineer             | Enterprise Acount Manager         |
+| Sr. Systems Engineer             | Solutions Architect               |
 |                                  |                                   |
 | +49 1522 9209639                 | +49 173 4524010                   |
 |                                  |                                   |
