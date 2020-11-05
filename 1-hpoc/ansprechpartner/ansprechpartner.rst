@@ -27,19 +27,4 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
 |                                  |                                   |
 +----------------------------------+-----------------------------------+
 
-.. list-table::
-   :widths: 40 40
-   :header-rows: 1
 
-   * - **Sven Willholz**
-     - **Wolfgang Huse**
-   * - .. figure:: images/svenwillholz.png
-     - .. figure:: images/wolfganghuse.png
-   * - **Senior Systems Engineer**
-     - **Solutions Architect**
-   * - Nutanix Germany GmbH
-     - Nutanix Germany GmbH
-   * - +49 1522 / 9209639
-     - +49 173 / 4524010
-   * - sven.willholz@nutanix.com
-     - wolfgang.huse@nutanix.com
