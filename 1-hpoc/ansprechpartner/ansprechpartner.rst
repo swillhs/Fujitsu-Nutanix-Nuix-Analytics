@@ -13,18 +13,16 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
 
 
 +----------------------------------+-----------------------------------+
-| Sven Willholz                        | Wolfgang Huse                     |
+| Sven Willholz                    | Wolfgang Huse                     |
 +==================================+===================================+
-| .. figure:: /_static/svenwillholz.png   | .. figure:: /_static/wolfganghuse.png   |
+| .. figure:: images/swillh.png    | .. figure:: images/whuse.png      |
 |    :width: 200px                 |    :width: 200px                  |
 |    :align: left                  |    :align: left                   |
 +----------------------------------+-----------------------------------+
 | Sr. Systems Engineer             | Enterprise Acount Manager         |
 |                                  |                                   |
-| +49 1522 9209639                  | +49 173 4524010                  |
+| +49 1522 9209639                 | +49 173 4524010                   |
 |                                  |                                   |
-| sven.willholz@nutanix.com            | wolfgang.huse@nutanix.com         |
+| sven.willholz@nutanix.com        | wolfgang.huse@nutanix.com         |
 |                                  |                                   |
 +----------------------------------+-----------------------------------+
-
-
