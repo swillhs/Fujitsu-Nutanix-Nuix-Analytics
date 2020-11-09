@@ -77,13 +77,13 @@ Die folgende Tabelle führt die standardmäßig hinterlegten Zugangsdaten für d
     - ADMIN
   * - **Prism Element Web**
     - admin
-    - nx2Tech037!
+    - ntnx2NUIX!
   * - **Prism Element SSH**
     - nutanix
-    - nx2Tech037!
+    - ntnx2NUIX!
   * - **Prism Central Web**
     - admin
-    - nx2Tech037!
+    - ntnx2NUIX!
   * - **Prism Central SSH**
     - nutanix
     - nutanix/4u
