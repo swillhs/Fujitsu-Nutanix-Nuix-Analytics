@@ -1,4 +1,4 @@
-.. title:: Nutanix/Fujitsu Nuix Analytics Bootcamp
+.. title:: Nutanix<Topic> Bootcamp
 
 .. toctree::
    :maxdepth: 2
