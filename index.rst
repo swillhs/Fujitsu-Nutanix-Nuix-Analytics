@@ -1,4 +1,4 @@
-.. title:: Nutanix Fujitsu/NUIX Bootcamp
+.. title:: Nutanix Fujitsu/NUIX Bootcamp test
 
 .. toctree::
    :maxdepth: 2
