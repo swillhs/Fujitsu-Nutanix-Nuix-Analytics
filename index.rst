@@ -1,4 +1,4 @@
-.. title:: Nutanix<Topic> Bootcamp
+.. title:: Nutanix Fujitsu/NUIX Bootcamp
 
 .. toctree::
    :maxdepth: 2
