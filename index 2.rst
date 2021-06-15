@@ -1,8 +1,8 @@
-.. title:: Nutanix Fujitsu ITSG PoC
+.. title:: Nutanix Fujitsu/NUIX Bootcamp
 
 .. toctree::
    :maxdepth: 2
-   :caption: PoC Infos
+   :caption: Hosted PoC Infos
    :hidden:
 
    1-hpoc/ansprechpartner/ansprechpartner
